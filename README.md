@@ -34,8 +34,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Feather Icons](https://feathericons.com/) - Icons used in the application
 - [Font Awesome](https://fontawesome.com/) - Icons used in the application
 
-## Contact
-
-For any inquiries or questions, please contact on X (@51xneeraj)
-
-Enjoy managing your finances with Personal Finance Tracker!
